@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "server.h": "c",
+        "tty_server_request.h": "c",
+        "client_routine.h": "c"
+    }
+}

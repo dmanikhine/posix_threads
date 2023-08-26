@@ -1,0 +1,1 @@
+void tty_server_request (int operation, int sync, const char  *prompt, char *string);
